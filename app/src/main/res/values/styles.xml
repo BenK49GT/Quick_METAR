@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+    <style name="NightTheme" parent= "AppTheme">
+        <item name="android:textColor">@android:color/holo_green_light</item>
+        <item name="android:background">@android:color/black</item>
+    </style>
+    <style name="DayTheme" parent= "AppTheme">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:background">@android:color/white</item>
+    </style>
+</resources>

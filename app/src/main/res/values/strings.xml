@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quick METAR</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="day">Day</string>
+    <string name="night">Night</string>
+    <string name="action_home">Edit Home List</string>
+    <string name="action_daytime">Day Theme</string>
+    <string name="action_nighttime">Night Theme</string>
+    <string name="action_about">About</string>
+    <string name="about_string">\nAbout:\nApplication by Ben Kugielsky</string>
+    <string name="button1">\u0020 Get Quick Weather </string>
+    <string name="edit_home_list">Edit Home List</string>
+    <string name="enter_airport_id">Enter Airport ID</string>
+    <string name="done">Done</string>
+</resources>

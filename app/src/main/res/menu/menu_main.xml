@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_home"
+        android:orderInCategory="50"
+        android:title="@string/action_home"/>
+    <item
+        android:id="@+id/action_daytime"
+        android:orderInCategory="100"
+        android:title="@string/action_daytime"/>
+
+    <item
+        android:id="@+id/action_nighttime"
+        android:orderInCategory="200"
+        android:title="@string/action_nighttime"/>
+
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="300"
+        android:title="@string/action_about"/>
+</menu>
